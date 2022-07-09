@@ -1,1 +1,1 @@
-PHP Code d'un site du vente des produits Multimédia
+PHP Code d'un site de vente des produits Multimédia
